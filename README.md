@@ -1,4 +1,2 @@
 # assessment
 あなたのいいところ診断ゲーム
-
-https://rpax-download.workfusion.com/download?token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3b3JrZnVzaW9uLmNvbSIsImNvbXBhbnkiOiJTaGlvbm9naSBEaWdpdGFsIFNjaWVuY2UiLCJlbWFpbCI6Im1hcmFraS5uYXN1QHNoaW9ub2dpLmNvLmpwIn0.Hw5r5pzRUrYNKc9liSqPxD1vurxrX_wci-rT7Z1MZYw
